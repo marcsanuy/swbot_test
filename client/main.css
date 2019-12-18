@@ -1,0 +1,11 @@
+body{
+  background-image: url(./yodabot.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  color: #ffffff;
+}
+
+.container{
+  background-color: rgba(109, 106, 106, 0.733);
+  width: 52%;  
+}
